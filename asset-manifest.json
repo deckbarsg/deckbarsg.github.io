@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f0d83447.css",
-    "main.js": "/static/js/main.38564a67.js",
+    "main.css": "/static/css/main.4fc176ad.css",
+    "main.js": "/static/js/main.a8a12370.js",
     "static/js/787.ef3f2bf5.chunk.js": "/static/js/787.ef3f2bf5.chunk.js",
     "static/media/housewinespdf.jpg": "/static/media/housewinespdf.bd5c2fb4c4d7ac2cfc3f.jpg",
     "static/media/39.jpg": "/static/media/39.0fccfe21f43016a39b29.jpg",
@@ -93,12 +93,12 @@
     "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/index.html",
-    "main.f0d83447.css.map": "/static/css/main.f0d83447.css.map",
-    "main.38564a67.js.map": "/static/js/main.38564a67.js.map",
+    "main.4fc176ad.css.map": "/static/css/main.4fc176ad.css.map",
+    "main.a8a12370.js.map": "/static/js/main.a8a12370.js.map",
     "787.ef3f2bf5.chunk.js.map": "/static/js/787.ef3f2bf5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0d83447.css",
-    "static/js/main.38564a67.js"
+    "static/css/main.4fc176ad.css",
+    "static/js/main.a8a12370.js"
   ]
 }
